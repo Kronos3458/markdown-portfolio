@@ -1,4 +1,3 @@
-**the programming language i learned is c++
-_Skills:
-**Customer Service
-**Programmer
+**the programming language I learned is c++
+**Skills:Programmer
+
