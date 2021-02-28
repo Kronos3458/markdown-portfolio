@@ -2,5 +2,5 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 
 **the programming language i learned is c++
 _Skills:
-**- Customer Service
-- Programmer
+**Customer Service
+**Programmer
